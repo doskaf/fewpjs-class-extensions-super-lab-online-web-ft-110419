@@ -26,6 +26,6 @@ class Evergreen extends Tree {
   }
   
   static definition() {
-    super.definition() + " "
+    super.definition() + " Evergreens keep their leaves all year round."
   }
 }
